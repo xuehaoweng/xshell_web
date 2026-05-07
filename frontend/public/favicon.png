@@ -1,0 +1,20 @@
+# WebSSH Frontend
+
+Modern React frontend for WebSSH.
+
+## Development
+
+```bash
+npm install
+npm run dev
+```
+
+Open http://localhost:5173
+
+## Production Build
+
+```bash
+npm run build
+```
+
+The build output will be in `dist/`. Serve it with the Tornado backend.
